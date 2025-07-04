@@ -12,7 +12,7 @@
 
 <br>
 
-- A passionate and self-driven **Fullstack JavaScript Developer** with 2 years of professional experience.
+- A passionate and self-driven **Fullstack JavaScript Developer** with 3 years of professional experience.
 - Worked in both **product-based and service-based** environments.
 - Strong in **backend systems, GraphQL APIs, MongoDB optimization**, and **React-based UI development**.
 - Hands-on experience with **real-world production systems**, building features like **booking workflows, authentication, payment integration**, and **role-based access**.
