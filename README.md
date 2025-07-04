@@ -15,7 +15,7 @@
 - A passionate and self-driven **Fullstack JavaScript Developer** with 3 years of professional experience.
 - Worked in both **product-based and service-based** environments.
 - Strong in **backend systems, GraphQL APIs, MongoDB optimization**, and **React-based UI development**.
-- Hands-on experience with **real-world production systems**, building features like **booking workflows, authentication, payment integration**, and **role-based access**.
+- Hands-on experience with **real-world production systems**, building features like **booking workflows, authentication, payment integration, ota intergrations**, and **role-based access**.
 - Currently learning and implementing **DevOps basics (Docker, AWS EC2/S3)** and writing technical **blogs** to share learnings.
 - Open to new **mid-level fullstack roles** and collaborative projects.
 
