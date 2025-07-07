@@ -19,7 +19,7 @@
 - Currently learning and implementing **DevOps basics (Docker, AWS EC2/S3)** and writing technical **blogs** to share learnings.
 - Open to new **mid-level fullstack roles** and collaborative projects.
 
-- Personal Website: [portfolio-ndn.netlify.app](https://portfolio-ndn.netlify.app/)
+- Personal Website: [portfolio-ndn.netlify.app](https://nidhinm.vercel.app/)
 - Blog: [hashnode.com/@Nidhinm](https://hashnode.com/@Nidhinm)
 
 <br><br>
