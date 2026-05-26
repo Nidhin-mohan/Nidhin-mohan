@@ -1,22 +1,11 @@
 <h2>Hey, I'm Nidhin 👋</h2>
 
-**Backend-focused Fullstack Engineer** · 3 years · Node.js · TypeScript · GraphQL · MongoDB
+Backend-focused Fullstack Engineer with 3 years of experience building production systems in **Node.js · TypeScript · GraphQL · MongoDB**.
 
-I build backend systems that handle real load — sync pipelines, billing engines, background jobs, and the APIs that tie it all together.
-
----
-
-**What I've shipped that mattered:**
-
-- Collapsed 401 → 5 MongoDB queries in a cron-based sync pipeline (99% reduction) — unlocked 10x more integrations without infrastructure changes
-- Reduced external API traffic by ~96% per channel via bulk processing
-- Built a full Billing & Invoicing module covering multiple invoice types, split billing, and activity-based workflows
-- Moved report generation off the client into BullMQ background jobs — improved scalability for bulk operations across enterprise clients
+Currently open to backend-heavy fullstack roles.
 
 ---
 
-**Stack:** Node.js · TypeScript · GraphQL · MongoDB · Redis · BullMQ · React · Docker · AWS (EC2/S3/ECR)
+**Stack:** Node.js · TypeScript · GraphQL · MongoDB · PostgreSQL · Redis · React · Docker · AWS · CI/CD
 
----
-
-📄 [Portfolio](https://nidhinm.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/nidhinm/) · ✍️ [Blog](https://hashnode.com/@Nidhinm) · 📬 nidhinmohannidhin@gmail.com
+📄 [Portfolio](https://nidhinm.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/nidhinm/) · 📬 nidhinmohannidhin@gmail.com
